@@ -1,2 +1,3 @@
-# Shapley_values
-A tool that provides 3 different method to calculate Shapley values in a graph 
+# shapley-values
+
+ This project compares four traditional ways of calculating Shapley values and compare their performances
